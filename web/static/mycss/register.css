@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+.inputBox {
+	height: 50px;
+   	opacity: 0.6;
+}
+.inputBox input{
+	width: 309px;
+    height: 50px;
+    padding-left: 16px;
+    line-height: 38px;
+    font-size: 22px;
+    background: #e2e9f9;
+    color: #464242;
+    border: none;
+    border-radius: 2px;
+}
+
+.register_btn{
+    width: 309px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-family:微软雅黑;
+    background: #458fce;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.register_btn:hover {
+	 background: #3499da;
+}
+
+.main{
+	height:100%;
+	width:100%;
+	background:#458fce;
+	padding-top:150px;
+	padding-left:350px;
+}

@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+	list-style: none;
+}
+
+.content{
+    background: #1e6bad;
+    color: #fff ;
+    text-align: center ;
+    height: 550px ;
+    line-height:50px;
+    font-family: 微软雅黑;
+}
+
+.blogs{
+
+}
